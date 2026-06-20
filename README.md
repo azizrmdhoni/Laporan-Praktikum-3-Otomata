@@ -78,5 +78,9 @@ Definisi PDA dapat disimpan dan dibaca kembali melalui file JSON. Hal ini memuda
 ### 10. Batch Testing dan Penyimpanan Hasil
 Program mendukung pengujian banyak string sekaligus melalui fitur batch testing. Hasil tiap string akan ditampilkan dalam tabel, kemudian dapat disimpan ke file TXT atau CSV. 
 
-### 11. Kesimpulan
+### 11. Hasil Output
+<img width="1918" height="1025" alt="Screenshot 2026-06-20 083259" src="https://github.com/user-attachments/assets/a808f45a-32b3-4aaa-8645-9019e632e4a3" />
+<img width="1918" height="1020" alt="Screenshot 2026-06-20 083314" src="https://github.com/user-attachments/assets/3af08740-fc7e-4f46-9330-fed3ec719afc" />
+
+### 12. Kesimpulan
 Berdasarkan implementasinya, program ini merupakan simulator PDA yang cukup lengkap untuk pembelajaran teori automata. Selain menampilkan hasil akhir Accepted atau Rejected, program juga membantu pengguna memahami proses kerja PDA melalui jejak langkah, stack, tabel transisi, dan dukungan PDA kustom. 
